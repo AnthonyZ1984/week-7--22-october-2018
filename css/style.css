@@ -9,6 +9,6 @@ p:nth-child(1) {
 p:nth-child(2) {
    color: blue;
 
-   /* margin: 40px 60px (40px) (60px); */
-   margin: 40px 60px;
+   /* margin: 40px (40px) (40px) (40px); */
+   margin: 40px;
 }
