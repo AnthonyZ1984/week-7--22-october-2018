@@ -2,3 +2,9 @@
    margin: 0;
    padding: 0;
 }
+
+div,
+p {
+   padding: 10px;
+   margin: 10px;
+}
