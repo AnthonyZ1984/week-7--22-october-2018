@@ -3,10 +3,7 @@
    padding: 0;
 }
 
-div,
 p {
-   margin: 10px;
    border: 10px solid black;
    padding: 10px;
-   height: 100px;
 }
