@@ -1,0 +1,23 @@
+a {
+   font-size: 200%;
+}
+
+a:link {
+   color: red;
+   text-decoration: none;
+   transition: 1000ms;
+   border-bottom: 4px solid transparent;
+}
+
+a:visited {
+   color: pink;
+}
+
+a:hover {
+   color: purple;
+   border-bottom-color: red;
+}
+
+a:active {
+   color: orange;
+}
