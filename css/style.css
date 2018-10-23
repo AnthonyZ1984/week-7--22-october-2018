@@ -1,9 +1,13 @@
+* {
+   margin: 0;
+   padding: 0;
+}
+
 div {
-   text-align: center;
-   margin: 200px;
-   background-color: grey;
-   border-top: 40px solid green;
-   border-right: 30px dotted red;
-   border-bottom: 60px groove blue;
-   border-left: 28px dashed rebeccapurple;
+   width: 0;
+   height: 0;
+   border-top: 20px solid transparent;
+   border-right: 20px solid transparent;
+   border-bottom: 20px solid transparent;
+   border-left: 20px solid rebeccapurple;
 }
